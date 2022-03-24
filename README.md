@@ -1,14 +1,16 @@
 <h1 align=center> Hello! 👋</h1>
 
-<h3> 👨🏽‍💻 About Me: </h3>
+<h3 align=center> 👨🏽‍💻 About Me: </h3>
 
-<p> 📚 I’m currently learning <b>JavaScript and React</b></p>
+<p align=center> 📚 I’m currently learning <b>JavaScript and React</b></p>
     
-<p> 🤝 I’m looking for help <b>to improve my skills</b></p>
+<p align=center> 🤝 I’m looking for help <b>to improve my skills</b></p>
 
 <h2 align=center>
 <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mirandaph&theme=gotham&show_icons=true" />
+<br>
+<br>
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirandaph&&theme=gotham&hide=html&layout=compact" />
 <br>
 <br>
