@@ -2,7 +2,7 @@
 
 <h3 align=center> 👨🏽‍💻 About Me: </h3>
 
-<p align=center> 📚 I’m currently learning <b>JavaScript and React</b></p>
+<p align=center> 📚 I’m currently learning <b>JavaScript</b></p>
     
 <p align=center> 🤝 I’m looking for help <b>to improve my skills</b></p>
 
